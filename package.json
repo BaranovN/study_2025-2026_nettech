@@ -1,0 +1,14 @@
+{
+  "name": "infosec-intro",
+  "version": "1.0.0",
+  "description": "Основы информационной безопасности",
+  "main": "index.js",
+  "repository": "https://github.com/BaranovN/study_2024-2025_infosec-intro.git",
+  "author": " <>",
+  "license": "CC-BY-4.0",
+    "config": {
+	"commitizen": {
+	    "path": "cz-customizable"
+	}
+    }
+}
