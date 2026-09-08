@@ -1,0 +1,4 @@
+/.quarto/
+/_output/*
+!/_output/*.pdf
+**/*.quarto_ipynb
