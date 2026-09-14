@@ -1,10 +1,10 @@
 {
-  "name": "infosec-intro",
-  "version": "1.0.0",
-  "description": "Основы информационной безопасности",
+  "name": "nettech",
+  "version": "2.0.0",
+  "description": "Сетевые технологии",
   "main": "index.js",
-  "repository": "https://github.com/BaranovN/study_2024-2025_infosec-intro.git",
-  "author": " <>",
+  "repository": "https://github.com/BaranovN/study_2025-2026_nettech.git",
+  "author": "Баранов Никита Дмитриевич <1132242977@rudn.ru>",
   "license": "CC-BY-4.0",
     "config": {
 	"commitizen": {

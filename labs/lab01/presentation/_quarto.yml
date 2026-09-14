@@ -11,7 +11,9 @@ crossref:
   lot-title: Список таблиц
   lol-title: Листинги
 format: # Formats
-  beamer: # Pdf output format
+  beamer: # PDF output format
+    latex-auto-install: false
+    pdf-engine: xelatex
     toc: true
     toc-title: Содержание
     number-sections: false
