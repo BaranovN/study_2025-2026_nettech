@@ -1,0 +1,5 @@
+project:
+  title: "report"
+  output-dir: "_report"
+standalone: true
+embed-resources: true

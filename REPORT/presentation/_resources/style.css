@@ -1,0 +1,11 @@
+.reveal h1,.reveal h2{ text-transform:none; font-weight:500; letter-spacing:normal; }
+.reveal{ font-family:"DejaVu Sans",sans-serif; font-size:30px; }
+.reveal section img{ max-height:440px; border:0; box-shadow:none; margin:10px auto; }
+.reveal h2{font-size:1.3em;}
+.reveal .columns{display:flex;gap:30px;align-items:center;}
+.reveal .column{min-width:0;}
+.reveal .column ul{text-align:left;}
+.reveal table{font-size:.85em;}
+.reveal .source{font-size:18px;color:#666;}
+.reveal aside.notes{display:none;}
+.reveal .slide-logo{height:50px;position:fixed;right:18px;top:16px;}
