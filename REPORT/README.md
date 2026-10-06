@@ -10,12 +10,6 @@
 
 ## Сборка
 
-В PowerShell из корня комплекта:
-
-```powershell
-powershell -ExecutionPolicy Bypass -File .\build.ps1
-```
-
-Либо `quarto render` в каталогах `report` и `presentation`. Для PDF требуются XeLaTeX, тема Metropolis и шрифты DejaVu. При наличии Times New Roman он используется для основного текста доклада. Для оформления списка литературы используется ГОСТ CSL; отдельный запуск biber не нужен.
+В PowerShell выполните `make` отдельно в каталогах `report` и `presentation`. Для PDF необходимы Quarto и TinyTeX с XeLaTeX и темой Metropolis; шрифты DejaVu включены в комплект. Для оформления списка литературы используется ГОСТ CSL; отдельный запуск biber не нужен.
 
 PDF презентации — Metropolis, 16:9, полоса прогресса и нумерация слайдов. HTML — beige, работает без интернета. Клавиши: стрелки для перехода между слайдами, F для полноэкранного режима, Esc для обзора. Заметки докладчика включены в исходник QMD.

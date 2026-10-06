@@ -6,9 +6,13 @@
 
 ## [Unreleased]
 
-### Изменено
+## [2.1.0] - 2026-10-06
 
-- Новые существенные изменения после версии 2.0.0 будут перечисляться в этом разделе.
+### Добавлено
+
+- Доклад «Power over Ethernet: IEEE 802.3af-2003» в формате QMD с иллюстрациями, библиографией и текстом выступления.
+- Производные форматы доклада: PDF и DOCX для отчёта, PDF и автономный HTML для презентации.
+- Локальные шрифты DejaVu и настройки сборки доклада через `make` на Windows.
 
 ## [2.0.0] - 2026-09-14
 
@@ -34,6 +38,7 @@
 - Исходные задания, отчёты и презентации для лабораторных и домашних работ 1–11.
 - Конфигурация Quarto и Makefile для локальной сборки материалов.
 
-[Unreleased]: https://github.com/BaranovN/study_2025-2026_nettech/compare/v2.0.0...HEAD
+[Unreleased]: https://github.com/BaranovN/study_2025-2026_nettech/compare/v2.1.0...HEAD
+[2.1.0]: https://github.com/BaranovN/study_2025-2026_nettech/releases/tag/v2.1.0
 [2.0.0]: https://github.com/BaranovN/study_2025-2026_nettech/releases/tag/v2.0.0
 [1.0.0]: https://github.com/BaranovN/study_2025-2026_nettech/releases/tag/v1.0.0
